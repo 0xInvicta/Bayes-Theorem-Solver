@@ -2,4 +2,4 @@
 A GUI Bayes' Theorem Solver in C# Win Forms.
 
 ![GUI](READMEimg/Capture.PNG)
-.exe if found in binaries folder.
+\n.exe if found in binaries folder.
